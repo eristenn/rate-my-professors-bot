@@ -30,7 +30,7 @@ A Discord bot built with **Node.js** and **Discord.js**, made to help students f
 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/professor-finder-bot-js.git
+git clone https://github.com/eristenn/rate-my-professors-bot.git
 cd professor-finder-bot-js
 ```
 
